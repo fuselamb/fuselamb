@@ -12,4 +12,4 @@ You can follow David at any or all of the following, although Twitter is probabl
 - [Blog: The Frozen Geek](http://thefrozengeek.blogspot.com/) His technical blog.
 - [Blog: David's Two Cents](http://ourtwocents-david.blogspot.com/) His personal, sadly neglected blog.
 
-![Picture of David Lamb](Fuse-400x400.jpg)
+![Picture of Cold Lake](Profile-Banner-Cropped-Small.jpg)
