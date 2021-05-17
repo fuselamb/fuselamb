@@ -9,7 +9,7 @@ You can follow David at any or all of the following, although Twitter is probabl
 - [Twitter](https://twitter.com/fuselamb) I hope you like dad jokes!
 - [LinkedIn](https://www.linkedin.com/in/davidlamb/) 
 - [GitHub](https://github.com/fuselamb) (wait...that's here)
-- [TechSnips](https://techsnips.io/contributors/david-lamb/)
+- [TechSnips](https://techsnips.io/contributors/david-lamb/) His published, IT related videos.
 - [Blog: The Frozen Geek](http://thefrozengeek.blogspot.com/) His technical blog.
 - [Blog: David's Two Cents](http://ourtwocents-david.blogspot.com/) His personal, sadly neglected blog.
 
